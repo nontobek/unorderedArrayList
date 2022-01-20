@@ -1,4 +1,4 @@
-//List functions
+//List functions file 
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
